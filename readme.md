@@ -10,6 +10,7 @@ local_plugins\phonegap-plugin-barcodescanner\8.1.0\phonegap-plugin-barcodescanne
 
 ==========
 ==========
+# Tags for revision 2
 
 - Changes (local_plugins/phonegap-plugin-barcodescanner/8.1.0/phonegap-plugin-barcodescanner/src/android/barcodescanner.gradle)
   implementation to compile >
