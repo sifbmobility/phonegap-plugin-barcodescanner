@@ -9,6 +9,7 @@ local_plugins\phonegap-plugin-barcodescanner\8.1.0\phonegap-plugin-barcodescanne
 - iOS Using fullscreen for UIModalPresentationStyle
 
 ==========
+//Modified redmine 27 May 2024
 
 - Changes (local_plugins/phonegap-plugin-barcodescanner/8.1.0/phonegap-plugin-barcodescanner/src/android/barcodescanner.gradle)
   implementation to compile >
